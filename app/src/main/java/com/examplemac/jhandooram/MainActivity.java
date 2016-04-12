@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         });
         String jhandax = "Jhandoogatorz";
         String jhandax2 = "Jhandoogatorz";
+        String mahahgg   = " klasjdfkla";
     }
 
     @Override
